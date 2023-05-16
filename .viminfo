@@ -15,7 +15,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1684244263,,"wq"
+|2,0,1684245882,,"wq"
 :q!
 |2,0,1590234112,,"q!"
 :wq!
@@ -42,36 +42,52 @@ $
 |3,0,36,0,1,0,1590232069,"a"
 
 # File marks:
-'0  149  0  ~/myproject1/p1
-|4,48,149,0,1684244263,"~/myproject1/p1"
-'1  141  0  ~/assignment1/apperturetech
-|4,49,141,0,1684243217,"~/assignment1/apperturetech"
-'2  136  0  ~/assignment1/index1
-|4,50,136,0,1684240678,"~/assignment1/index1"
-'3  8  0  /etc
-|4,51,8,0,1590234173,"/etc"
-'4  1  0  /opt/tomcat/bin/startup.sh
-|4,52,1,0,1590234173,"/opt/tomcat/bin/startup.sh"
-'5  60  0  /opt/tomcat/bin/startup.sh
-|4,53,60,0,1590234112,"/opt/tomcat/bin/startup.sh"
-'6  3  8  /etc/profile.d/maven.sh
-|4,54,3,8,1590232385,"/etc/profile.d/maven.sh"
-'7  1  42  /etc/profile.d/maven.sh
-|4,55,1,42,1590232144,"/etc/profile.d/maven.sh"
+'0  139  0  ~/test1
+|4,48,139,0,1684245882,"~/test1"
+'1  149  0  ~/myproject1/p1
+|4,49,149,0,1684244263,"~/myproject1/p1"
+'2  141  0  ~/assignment1/apperturetech
+|4,50,141,0,1684243217,"~/assignment1/apperturetech"
+'3  136  0  ~/assignment1/index1
+|4,51,136,0,1684240678,"~/assignment1/index1"
+'4  8  0  /etc
+|4,52,8,0,1590234173,"/etc"
+'5  1  0  /opt/tomcat/bin/startup.sh
+|4,53,1,0,1590234173,"/opt/tomcat/bin/startup.sh"
+'6  60  0  /opt/tomcat/bin/startup.sh
+|4,54,60,0,1590234112,"/opt/tomcat/bin/startup.sh"
+'7  3  8  /etc/profile.d/maven.sh
+|4,55,3,8,1590232385,"/etc/profile.d/maven.sh"
 '8  1  42  /etc/profile.d/maven.sh
 |4,56,1,42,1590232144,"/etc/profile.d/maven.sh"
-'9  69  24  /opt/tomcat/conf/server.xml
-|4,57,69,24,1590231424,"/opt/tomcat/conf/server.xml"
+'9  1  42  /etc/profile.d/maven.sh
+|4,57,1,42,1590232144,"/etc/profile.d/maven.sh"
 
 # Jumplist (newest first):
+-'  139  0  ~/test1
+|4,39,139,0,1684245882,"~/test1"
+-'  1  0  ~/test1
+|4,39,1,0,1684245720,"~/test1"
 -'  149  0  ~/myproject1/p1
 |4,39,149,0,1684244263,"~/myproject1/p1"
+-'  149  0  ~/myproject1/p1
+|4,39,149,0,1684244263,"~/myproject1/p1"
+-'  1  0  ~/myproject1/p1
+|4,39,1,0,1684244147,"~/myproject1/p1"
 -'  1  0  ~/myproject1/p1
 |4,39,1,0,1684244147,"~/myproject1/p1"
 -'  141  0  ~/assignment1/apperturetech
 |4,39,141,0,1684243217,"~/assignment1/apperturetech"
 -'  141  0  ~/assignment1/apperturetech
 |4,39,141,0,1684243217,"~/assignment1/apperturetech"
+-'  141  0  ~/assignment1/apperturetech
+|4,39,141,0,1684243217,"~/assignment1/apperturetech"
+-'  141  0  ~/assignment1/apperturetech
+|4,39,141,0,1684243217,"~/assignment1/apperturetech"
+-'  1  0  ~/assignment1/apperturetech
+|4,39,1,0,1684243138,"~/assignment1/apperturetech"
+-'  1  0  ~/assignment1/apperturetech
+|4,39,1,0,1684243138,"~/assignment1/apperturetech"
 -'  1  0  ~/assignment1/apperturetech
 |4,39,1,0,1684243138,"~/assignment1/apperturetech"
 -'  1  0  ~/assignment1/apperturetech
@@ -84,6 +100,22 @@ $
 |4,39,136,0,1684240678,"~/assignment1/index1"
 -'  136  0  ~/assignment1/index1
 |4,39,136,0,1684240678,"~/assignment1/index1"
+-'  136  0  ~/assignment1/index1
+|4,39,136,0,1684240678,"~/assignment1/index1"
+-'  136  0  ~/assignment1/index1
+|4,39,136,0,1684240678,"~/assignment1/index1"
+-'  136  0  ~/assignment1/index1
+|4,39,136,0,1684240678,"~/assignment1/index1"
+-'  136  0  ~/assignment1/index1
+|4,39,136,0,1684240678,"~/assignment1/index1"
+-'  1  0  ~/assignment1/index1
+|4,39,1,0,1684240418,"~/assignment1/index1"
+-'  1  0  ~/assignment1/index1
+|4,39,1,0,1684240418,"~/assignment1/index1"
+-'  1  0  ~/assignment1/index1
+|4,39,1,0,1684240418,"~/assignment1/index1"
+-'  1  0  ~/assignment1/index1
+|4,39,1,0,1684240418,"~/assignment1/index1"
 -'  1  0  ~/assignment1/index1
 |4,39,1,0,1684240418,"~/assignment1/index1"
 -'  1  0  ~/assignment1/index1
@@ -124,6 +156,54 @@ $
 |4,39,8,0,1590234173,"/etc"
 -'  1  0  /opt/tomcat/bin/startup.sh
 |4,39,1,0,1590234173,"/opt/tomcat/bin/startup.sh"
+-'  8  0  /etc
+|4,39,8,0,1590234173,"/etc"
+-'  1  0  /opt/tomcat/bin/startup.sh
+|4,39,1,0,1590234173,"/opt/tomcat/bin/startup.sh"
+-'  8  0  /etc
+|4,39,8,0,1590234173,"/etc"
+-'  1  0  /opt/tomcat/bin/startup.sh
+|4,39,1,0,1590234173,"/opt/tomcat/bin/startup.sh"
+-'  8  0  /etc
+|4,39,8,0,1590234173,"/etc"
+-'  1  0  /opt/tomcat/bin/startup.sh
+|4,39,1,0,1590234173,"/opt/tomcat/bin/startup.sh"
+-'  8  0  /etc
+|4,39,8,0,1590234173,"/etc"
+-'  1  0  /opt/tomcat/bin/startup.sh
+|4,39,1,0,1590234173,"/opt/tomcat/bin/startup.sh"
+-'  8  0  /etc
+|4,39,8,0,1590234173,"/etc"
+-'  1  0  /opt/tomcat/bin/startup.sh
+|4,39,1,0,1590234173,"/opt/tomcat/bin/startup.sh"
+-'  8  0  /etc
+|4,39,8,0,1590234173,"/etc"
+-'  1  0  /opt/tomcat/bin/startup.sh
+|4,39,1,0,1590234173,"/opt/tomcat/bin/startup.sh"
+-'  8  0  /etc
+|4,39,8,0,1590234173,"/etc"
+-'  1  0  /opt/tomcat/bin/startup.sh
+|4,39,1,0,1590234173,"/opt/tomcat/bin/startup.sh"
+-'  8  0  /etc
+|4,39,8,0,1590234173,"/etc"
+-'  1  0  /opt/tomcat/bin/startup.sh
+|4,39,1,0,1590234173,"/opt/tomcat/bin/startup.sh"
+-'  60  0  /opt/tomcat/bin/startup.sh
+|4,39,60,0,1590234112,"/opt/tomcat/bin/startup.sh"
+-'  60  0  /opt/tomcat/bin/startup.sh
+|4,39,60,0,1590234112,"/opt/tomcat/bin/startup.sh"
+-'  60  0  /opt/tomcat/bin/startup.sh
+|4,39,60,0,1590234112,"/opt/tomcat/bin/startup.sh"
+-'  60  0  /opt/tomcat/bin/startup.sh
+|4,39,60,0,1590234112,"/opt/tomcat/bin/startup.sh"
+-'  60  0  /opt/tomcat/bin/startup.sh
+|4,39,60,0,1590234112,"/opt/tomcat/bin/startup.sh"
+-'  60  0  /opt/tomcat/bin/startup.sh
+|4,39,60,0,1590234112,"/opt/tomcat/bin/startup.sh"
+-'  60  0  /opt/tomcat/bin/startup.sh
+|4,39,60,0,1590234112,"/opt/tomcat/bin/startup.sh"
+-'  60  0  /opt/tomcat/bin/startup.sh
+|4,39,60,0,1590234112,"/opt/tomcat/bin/startup.sh"
 -'  60  0  /opt/tomcat/bin/startup.sh
 |4,39,60,0,1590234112,"/opt/tomcat/bin/startup.sh"
 -'  60  0  /opt/tomcat/bin/startup.sh
@@ -156,6 +236,22 @@ $
 |4,39,1,0,1590234101,"/opt/tomcat/bin/startup.sh"
 -'  1  0  /opt/tomcat/bin/startup.sh
 |4,39,1,0,1590234101,"/opt/tomcat/bin/startup.sh"
+-'  1  0  /opt/tomcat/bin/startup.sh
+|4,39,1,0,1590234101,"/opt/tomcat/bin/startup.sh"
+-'  1  0  /opt/tomcat/bin/startup.sh
+|4,39,1,0,1590234101,"/opt/tomcat/bin/startup.sh"
+-'  1  0  /opt/tomcat/bin/startup.sh
+|4,39,1,0,1590234101,"/opt/tomcat/bin/startup.sh"
+-'  1  0  /opt/tomcat/bin/startup.sh
+|4,39,1,0,1590234101,"/opt/tomcat/bin/startup.sh"
+-'  1  0  /opt/tomcat/bin/startup.sh
+|4,39,1,0,1590234101,"/opt/tomcat/bin/startup.sh"
+-'  1  0  /opt/tomcat/bin/startup.sh
+|4,39,1,0,1590234101,"/opt/tomcat/bin/startup.sh"
+-'  1  0  /opt/tomcat/bin/startup.sh
+|4,39,1,0,1590234101,"/opt/tomcat/bin/startup.sh"
+-'  1  0  /opt/tomcat/bin/startup.sh
+|4,39,1,0,1590234101,"/opt/tomcat/bin/startup.sh"
 -'  3  8  /etc/profile.d/maven.sh
 |4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
 -'  3  8  /etc/profile.d/maven.sh
@@ -168,104 +264,15 @@ $
 |4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
 -'  3  8  /etc/profile.d/maven.sh
 |4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  3  8  /etc/profile.d/maven.sh
-|4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  3  8  /etc/profile.d/maven.sh
-|4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  3  8  /etc/profile.d/maven.sh
-|4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  3  8  /etc/profile.d/maven.sh
-|4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  3  8  /etc/profile.d/maven.sh
-|4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  3  8  /etc/profile.d/maven.sh
-|4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  3  8  /etc/profile.d/maven.sh
-|4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  3  8  /etc/profile.d/maven.sh
-|4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  3  8  /etc/profile.d/maven.sh
-|4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  3  8  /etc/profile.d/maven.sh
-|4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  3  8  /etc/profile.d/maven.sh
-|4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  3  8  /etc/profile.d/maven.sh
-|4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  3  8  /etc/profile.d/maven.sh
-|4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  3  8  /etc/profile.d/maven.sh
-|4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  3  8  /etc/profile.d/maven.sh
-|4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  3  8  /etc/profile.d/maven.sh
-|4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  3  8  /etc/profile.d/maven.sh
-|4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  3  8  /etc/profile.d/maven.sh
-|4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  3  8  /etc/profile.d/maven.sh
-|4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  3  8  /etc/profile.d/maven.sh
-|4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  3  8  /etc/profile.d/maven.sh
-|4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  3  8  /etc/profile.d/maven.sh
-|4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  3  8  /etc/profile.d/maven.sh
-|4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  3  8  /etc/profile.d/maven.sh
-|4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  3  8  /etc/profile.d/maven.sh
-|4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  3  8  /etc/profile.d/maven.sh
-|4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  3  8  /etc/profile.d/maven.sh
-|4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  3  8  /etc/profile.d/maven.sh
-|4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  3  8  /etc/profile.d/maven.sh
-|4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  3  8  /etc/profile.d/maven.sh
-|4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  3  8  /etc/profile.d/maven.sh
-|4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  3  8  /etc/profile.d/maven.sh
-|4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  3  8  /etc/profile.d/maven.sh
-|4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  3  8  /etc/profile.d/maven.sh
-|4,39,3,8,1590232385,"/etc/profile.d/maven.sh"
--'  1  42  /etc/profile.d/maven.sh
-|4,39,1,42,1590232308,"/etc/profile.d/maven.sh"
--'  1  42  /etc/profile.d/maven.sh
-|4,39,1,42,1590232308,"/etc/profile.d/maven.sh"
--'  1  42  /etc/profile.d/maven.sh
-|4,39,1,42,1590232308,"/etc/profile.d/maven.sh"
--'  1  42  /etc/profile.d/maven.sh
-|4,39,1,42,1590232308,"/etc/profile.d/maven.sh"
--'  1  42  /etc/profile.d/maven.sh
-|4,39,1,42,1590232308,"/etc/profile.d/maven.sh"
--'  1  42  /etc/profile.d/maven.sh
-|4,39,1,42,1590232308,"/etc/profile.d/maven.sh"
--'  1  42  /etc/profile.d/maven.sh
-|4,39,1,42,1590232308,"/etc/profile.d/maven.sh"
--'  1  42  /etc/profile.d/maven.sh
-|4,39,1,42,1590232308,"/etc/profile.d/maven.sh"
--'  1  42  /etc/profile.d/maven.sh
-|4,39,1,42,1590232308,"/etc/profile.d/maven.sh"
--'  1  42  /etc/profile.d/maven.sh
-|4,39,1,42,1590232308,"/etc/profile.d/maven.sh"
--'  1  42  /etc/profile.d/maven.sh
-|4,39,1,42,1590232308,"/etc/profile.d/maven.sh"
--'  1  42  /etc/profile.d/maven.sh
-|4,39,1,42,1590232308,"/etc/profile.d/maven.sh"
--'  1  42  /etc/profile.d/maven.sh
-|4,39,1,42,1590232308,"/etc/profile.d/maven.sh"
--'  1  42  /etc/profile.d/maven.sh
-|4,39,1,42,1590232308,"/etc/profile.d/maven.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/test1
+	*	1684245880	0
+	"	139	0
+	^	152	0
+	.	151	0
+	+	151	0
 
 > ~/myproject1/p1
 	*	1684244260	0
