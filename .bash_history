@@ -192,3 +192,51 @@ git status
 git branch status
 git checkout master
 git merge apperturetech master
+git init
+git add .
+git commit -m " adding"
+git commit -m "adding"
+git status
+git remote add origin https://github.com/Joseriya/Assign1.git
+git push origin master --force
+clear
+git branch myproj
+git checkout myproj
+touch test1
+git add .
+git commit -m "adding"
+vim test1
+git add .
+git commit -m "adding modifications"
+git checkout master
+git merge myproj master
+git branch -a --merged master
+git remote add origin https://github.com/Joseriya/Assign1.git
+git push origin master --force
+/home/edureka/Documents
+ls
+git init
+git add .
+git commit
+git init
+sit status
+git status
+home/edureka/documents
+/home/edureka/documents
+clear
+sudo su -
+/home/edureka/Documents/sourcecode
+home/edureka/documents
+ls
+cd assignment1
+ls
+/home/edureaka/Documents
+ls
+/home/Downloads
+https://backup-edureka.s3.ap-south-1.amazonaws.com/sample-project.zip
+clear
+/home/edureka
+ls
+/home/edureka/Documents/
+ls
+clear
